@@ -1,13 +1,15 @@
-<h1 align="left">Hi, I'm Edyta 👋</h1>
 
-- 🌱 I’m currently studying Common Core at 42 Warsaw after successfully completing the Piscine.<br>
-- 🎤 I'm in love with singing, writing songs and photography.<br>
-- <b><a href="https://42warsaw.pl/">42 Warsaw</a></b> <b>Intra:</b> ecymer<br>
+  <h1 align="center">Hi, I'm Edyta 👋</h1><br><br>
 
 
+🌱 I’m currently studying Common Core at 42 Warsaw after successfully completing the Piscine.<br>
+🎤 I'm in love with singing, writing songs and photography.<br>
+🚀  intra: ecymer  <b><a href="https://42warsaw.pl/">42 Warsaw</a></b><br>
 
 
-<div align="left">
+<br><br>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
