@@ -4,7 +4,6 @@
 - 🎤 I'm in love with singing and writing songs & photography.<br>
 - <b><a href="https://42warsaw.pl/">42 Warsaw</a></b> <b>Intra:</b> ecymer<br>
 
-Hey 👋 What's up?
 
 
 
