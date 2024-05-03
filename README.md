@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-- <h1 align="left">Hi, I'm Edyta</h1>
+<h1 align="left">Hi, I'm Edyta 👋</h1>
 - 🌱 I’m currently studying Common Core at 42 Warsaw after successfully completing the Piscine.
 - 🎤 I'm in love with singing and writing songs & photography.
 - <b><a href="https://42warsaw.pl/">42 Warsaw</a></b> <b>Intra:</b> ecymer
