@@ -7,8 +7,6 @@
 - 🎤 I'm in love with singing and writing songs & photography.
 - <b><a href="https://42warsaw.pl/">42 Warsaw</a></b> <b>Intra:</b> ecymer
 
-- ⚡ Fun fact: I was singing in the Voice of Poland. 
-
 Hey 👋 What's up?
 
 
