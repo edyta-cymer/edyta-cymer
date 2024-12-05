@@ -1,6 +1,16 @@
 
   <h1 align="center">Hi, I'm Edyta 👋</h1><br><br>
 
+<div align="center">
+  Tell me why
+Ain’t nothin’ but a heartache
+Tell me why
+Ain’t nothin’ but a mistake
+Tell me why
+I never wanna hear you say
+...
+</div>
+
 
 🌱 I’m currently studying Common Core at 42 Warsaw after successfully completing the Piscine.<br>
 🎤 I'm in love with singing, writing songs and photography.<br>
