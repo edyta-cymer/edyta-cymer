@@ -1,15 +1,7 @@
 
   <h1 align="center">Hi, I'm Edyta 👋</h1><br><br>
 
-<div align="center">
-  Tell me why
-Ain’t nothin’ but a heartache
-Tell me why
-Ain’t nothin’ but a mistake
-Tell me why
-I never wanna hear you say
-...
-</div>
+
 
 
 🌱 I’m currently studying Common Core at 42 Warsaw after successfully completing the Piscine.<br>
@@ -25,5 +17,17 @@ I never wanna hear you say
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 </div>
+
+<div align="center">
+  Tell me why<br>
+Ain’t nothin’ but a heartache<br>
+Tell me why<br>
+Ain’t nothin’ but a mistake<br>
+Tell me why<br>
+I never wanna hear you say<br>
+...<br>
+  If you're singing this, you're my kind of person. <br>
+</div>
+
 
 ###
